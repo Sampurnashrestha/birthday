@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "PlaywriteNZ";
+  src: url("../src/assets/font/PlaywriteDESAS-VariableFont_wght.ttf");
+}
+@theme{
+  --font-playwrite: PlaywriteNZ, "cursive"
+}
