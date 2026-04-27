@@ -10,7 +10,7 @@ const Home = ({onNext}) => {
         initial={{opacity : 0}}
         whileInView={{opacity : 1}}
         transition={{duration : 1.5}}
-          className="w-100 md:w-150 h-100 bg-white/10 rounded-3xl py-4 px-5 shadow-[0_0_30px_rgba(255,255,255,0.3)]
+          className="w-100 md:w-150 h-107 md:h-100 bg-white/10 rounded-3xl py-4 px-5 shadow-[0_0_30px_rgba(255,255,255,0.3)]
  shadow-white/30 flex flex-col gap-3  hover:scale-101 transition duration-300 "
         >
           <h1 className="text-2xl md:text-4xl font-bold text-white/70 text-center">

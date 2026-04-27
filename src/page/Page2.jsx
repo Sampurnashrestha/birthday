@@ -16,7 +16,7 @@ const Page2 = ({ onNext, onPrev }) => {
           <h1 className="text-white/70  tracking-wide text-3xl md:text-4xl font-playwrite">
             Poem For You 💙
           </h1>
-          <div className=" text-justify pl-0 md:pl-4 pt-1 md:pt-3 text-white/80 tracking-wide text-lg ">
+          <div className=" text-justify pl-0 md:pl-4 pt-1 md:pt-3 text-white/80 tracking-wide text-md md:text-lg ">
             <p>
               In quiet shades of blue and grey,
               <br />
